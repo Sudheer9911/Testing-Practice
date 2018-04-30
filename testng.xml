@@ -5,5 +5,5 @@
     <classes>
       <class name="jenkinspractice.Jenkinsprcticeclass"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test --->
 </suite> <!-- Suite -->
